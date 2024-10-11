@@ -1,0 +1,6 @@
+{
+    "apiUrl": "http://100.27.30.112",
+    "registerEndpoint": "/api/register",
+    "loginEndpoint": "/api/login",
+    "createCaseEndpoint": "/api/create-case"
+  }
