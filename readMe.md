@@ -1,4 +1,4 @@
-#### Demo project framework for Expedite Commerce
+#### Cypress project sample for Expedite Commerce
 ###### Follow the instruction for instal and download the project
 1. download/clone the project in your local directory
 2. navigate/reach till the folder where code has been downloaded/copied/cloned
